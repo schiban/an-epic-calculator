@@ -1,0 +1,49 @@
+C:\Users\JOAO\Desktop\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.exe
+C:\Users\JOAO\Desktop\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.pdb
+C:\Users\JOAO\Desktop\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.xml
+C:\Users\JOAO\Desktop\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JOAO\Desktop\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Form1.resources
+C:\Users\JOAO\Desktop\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Form2.resources
+C:\Users\JOAO\Desktop\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Resources.resources
+C:\Users\JOAO\Desktop\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.vbproj.GenerateResource.Cache
+C:\Users\JOAO\Desktop\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.exe
+C:\Users\JOAO\Desktop\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.xml
+C:\Users\JOAO\Desktop\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.pdb
+G:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.exe
+G:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.xml
+G:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.pdb
+G:\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.exe
+G:\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.pdb
+G:\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.xml
+G:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\ResolveAssemblyReference.cache
+G:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Form1.resources
+G:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Form2.resources
+G:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Resources.resources
+G:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\GenerateResource.read.1.tlog
+G:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\GenerateResource.write.1.tlog
+E:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.exe
+E:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.xml
+E:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.pdb
+E:\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.exe
+E:\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.pdb
+E:\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.xml
+E:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\ResolveAssemblyReference.cache
+E:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Form1.resources
+E:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Form2.resources
+E:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Resources.resources
+E:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\GenerateResource.read.1.tlog
+E:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\GenerateResource.write.1.tlog
+G:\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Form3.resources
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.exe
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.pdb
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\bin\Debug\An Epic Calculator.xml
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.vbproj.AssemblyReference.cache
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Form1.resources
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Form2.resources
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Form3.resources
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An_Epic_Calculator.Resources.resources
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.vbproj.GenerateResource.cache
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.vbproj.CoreCompileInputs.cache
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.exe
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.xml
+E:\itm_10\tp - técnicas de programação\An Epic Calculator\Backup\An Epic Calculator\obj\Debug\An Epic Calculator.pdb
